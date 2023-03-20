@@ -16,7 +16,7 @@
 - #### GOV (Government)
   - President of the Republic : Ixodev
   - Prime Minister : Kubik
-  - Ministers : Ixodev, Kubik, Armand Hulin, Raphaël Sion.
+  - Ministers : Ixodev, Kubik.
 
 - #### FCT (Public functions)
   - Policemen
