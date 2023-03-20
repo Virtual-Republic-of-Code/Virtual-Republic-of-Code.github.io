@@ -16,7 +16,7 @@
 - #### GOV (Government)
   - President of the Republic : Ixodev
   - Prime Minister : Kubik
-  - Ministers
+  - Ministers : Ixodev, Kubik, Armand Hulin, Raphaël Sion.
 
 - #### FCT (Public functions)
   - Policemen
@@ -36,6 +36,15 @@
 - C/C++
 - Java
 - JavaScript
+
+
+#### There are four ministers :
+- Ixodev
+  - President of the Republic
+  - Army Leader
+  - C/C++/Java/Python minister
+  - Theoritical Mathematics, Physics and Biology Minister
+  - Culture Minister
 
 
 ### You can see the Constitution on the other Constitution repositories.
