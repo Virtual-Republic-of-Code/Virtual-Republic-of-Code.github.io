@@ -9,7 +9,10 @@
 
 #### This Republic is a place where developers can vote, choose laws, code, discuss, and ask questions about specific programming topics.
 
-##### There are three official functions in the VRC :
+
+
+
+### There are three official functions in the VRC :
 - #### GOV (Government)
   - President of the Republic : Ixodev
   - Prime Minister : Kubik
@@ -24,14 +27,15 @@
 - #### CIT (Citizens)
   - Normal developers
 
-##### There are three official speaking languages in the Republic :
+### There are three official speaking languages in the Republic :
 - English
 - German
 - French
 
-##### There are four official programming languages in the Republic :
+### There are four official programming languages in the Republic :
 - C/C++
 - Java
 - JavaScript
 
-#### 
+
+### You can see the Constitution on the other Constitution repositories.
