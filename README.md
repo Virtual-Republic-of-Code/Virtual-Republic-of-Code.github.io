@@ -48,6 +48,7 @@
   - Hardware minister
   - Culture Minister
   - Hackers minister
+  - Financial minister
   
 - Kubik
   - Prime Minister
@@ -63,6 +64,9 @@
   - Protection against malwares
 
 - Raph-la-Casse
+  - Vice prime minister
+  - Minister of the foreign exchanges
+  - Minister of the transports
   - C++ minister
   - Videogames minister
 
